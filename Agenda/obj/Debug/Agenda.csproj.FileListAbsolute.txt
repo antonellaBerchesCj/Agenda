@@ -1,0 +1,53 @@
+C:\Users\Antonella\Desktop\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Antonella\Desktop\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Antonella\Desktop\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.AdaugarePersoana.resources
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.Afisare.resources
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.Modifica.resources
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\Antonella\Desktop\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\SCUOLA\anul 4 io\IP\Proiect 2015\Agenda-Berches Antonela\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\SCUOLA\anul 4 io\IP\Proiect 2015\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\SCUOLA\anul 4 io\IP\Proiect 2015\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.AdaugarePersoana.resources
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.Afisare.resources
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.Modifica.resources
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\AntonellaB\Desktop\proiecte\college projects\Agenda-Berches Antonela\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.AdaugarePersoana.resources
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.Afisare.resources
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.Modifica.resources
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\aberches\Documents\Work\master work\licenta work\Agenda-CSharp\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Git\stuff\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Git\stuff\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Git\stuff\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.AdaugarePersoana.resources
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.Afisare.resources
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.Modifica.resources
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Git\stuff\Agenda\Agenda\obj\Debug\Agenda.pdb
